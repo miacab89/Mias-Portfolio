@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name":"Mia Cabrera",
+    "description":"",
+    "image":"webdevgirl.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"",
+    "email": "antemia.kavillari@gmail.com",
+    "phone": "210-501-2585",
+    "github":"https://github.com/miacab89",
+    "linkedin": "https://www.linkedin.com/in/mia-cabrera-610483130/",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"Mia_Cabrera_WebDev_Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mia-cabrera-610483130/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/miacab89",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "edu_logo": "edu_logo2.png",
+    "education":[
+      {
+        "school":"University of Texas in Austin",
+        "degree":"Full Stack Coding Bootcamp Certificate",
+        "graduated":"May 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work_logo": "work_logo3.png", 
+    "work":[
+      {
+        "company":"DevMatch",
+        "title":"Back-End/Authentication",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"ExpediLog",
+        "title":"Front-End",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Design-A-Date",
+        "title":"Back-End/API",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Design-A-Date",
+        "category":"Design-A-Date is a tool designed to plan a good time with ease and less indecisiveness. This application will populate the nearest cinemas and restaurants by zip code.",
+        "image": "dd.png",
+        "url":"https://christopherneill.github.io/GroupProject/"
+      },
+      {
+        "title":"DevMatch",
+        "category":"DevMatch is a great app for inspiring and experienced developers to connect and collaborate with the best talent in the world of coding and web development!",
+        "image":"devmatch.png",
+        "url":"https://afternoon-springs-32629.herokuapp.com/"
+      },
+      {
+        "title":"ExpediLog",
+        "category":"ExpediLog is a journal a user may document their destinations via current location. Great tool for travellers!",
+        "image":"expedi.png",
+        "url":"https://project-2-3-21-20.herokuapp.com/"
+      },
+      {
+        "title":"Employee Directory",
+        "category":"Find your employee/employer's contact data with the search engine.",
+        "image":"employeedir.png",
+        "url":"https://employeedirectory0.herokuapp.com/"
+      }
+    ]
+  }
+}
