@@ -16,7 +16,7 @@
       "zip": ""
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"MCWebDevResume.pdf",
+    "resumedownload":"Mia_Cabrera_WebDev_Resume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -38,7 +38,7 @@
         "school":"University of Texas in Austin",
         "degree":"Full Stack Coding Bootcamp Certificate",
         "graduated":"May 2020",
-        "description":"Committed to Trilogy Education's intensive 6-month Full Stack Coding Bootcamp which focused on object-oriented programming, utilizing/building Rest APIs, database modeling/management, testing, CLI hosting/deployment, as well as MERN stack projects. Developed quarterly team projects throughout the stint, which resulted in real life applications created to deliver a high quality user experience."
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work_logo": "work_logo3.png", 
@@ -46,17 +46,17 @@
       {
         "company":"DevMatch",
         "title":"Back-End/Authentication",
-        "description":"A great application for inspiring and experienced developers to connect and collaborate with the best talent in the world of coding and web development!"
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
         "company":"ExpediLog",
         "title":"Front-End",
-        "description":"A user may utilize this journal log to document their memories as well as adding their geographical location. Great application for travelers."
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
         "company":"Design-A-Date",
         "title":"Back-End/API",
-        "description":"An application designed to plan a good time with ease and less indecisiveness. Populate the nearest cinemas by zip code."
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[

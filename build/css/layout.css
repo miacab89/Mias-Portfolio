@@ -112,7 +112,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11abb0; }
+header .scrolldown a:hover { color: #0762f9; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -135,7 +135,7 @@ header .scrolldown a:hover { color: #11abb0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #11abb0; }
+.opaque { background-color: #333; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -174,7 +174,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #DCAE96 }
+ul#nav li.current a { color: #fe6928; }
 
 
 /* ------------------------------------------------------------------ */
@@ -1021,7 +1021,7 @@ footer .social-links li:first-child { margin-left: 0; }
    background-color: #313131 !important;
    border-radius: 30px;
    padding: 5px;
-   margin-bottom: 5px;
+   
 }
 .github-btn{
    background-color: #313131!important;

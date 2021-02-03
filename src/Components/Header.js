@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ParticlesBg  from "particles-bg";
+// import ParticlesBg  from "particles-bg";
 
 class Header extends Component {
   render() {
@@ -20,7 +20,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-      <ParticlesBg color="#A1D9BC" num={200} type="cobweb" bg={true} />
+      {/* <ParticlesBg color="#A1D9BC" num={200} type="cobweb" bg={true} /> */}
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
